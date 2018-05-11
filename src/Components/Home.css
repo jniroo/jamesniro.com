@@ -1,0 +1,26 @@
+.home{
+	display:flex; 
+	flex-direction:row;
+	 flex-wrap: wrap;
+	 content: center;
+}
+.top {
+	margin-top: 50px;
+	border: 2px solid #E7E7E7;
+	padding-left: 10px
+}
+
+.next {
+	border: 2px solid #E7E7E7;
+	padding-left: 10px
+}
+
+.bottom {
+	
+	border: 2px solid #E7E7E7;
+	padding-left: 10px
+}
+
+.bottomSection {
+	margin-bottom: 5px;
+}

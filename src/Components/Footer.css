@@ -1,0 +1,14 @@
+.style = {
+    background-color: #006064;
+    border-top: 1px solid #E7E7E7;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 15%;
+    width: 100%;
+
+}
+.image ={
+  margin: 10px;
+}
